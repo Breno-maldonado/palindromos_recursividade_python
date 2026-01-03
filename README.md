@@ -1,10 +1,10 @@
-🔁 Verificador de Palíndromos em Python
+# 🔁 Verificador de Palíndromos em Python
 
 Este projeto implementa duas formas diferentes de verificar se uma palavra é um palíndromo em Python:
 
-✅ Abordagem iterativa
+## ✅ Abordagem iterativa
 
-🔁 Abordagem recursiva
+## 🔁 Abordagem recursiva
 
 Um palíndromo é uma palavra que pode ser lida da mesma forma de frente para trás.
 
@@ -16,7 +16,7 @@ racecar
 
 level
 
-📂 Estrutura do Código
+## 📂 Estrutura do Código
 
 O projeto contém um único arquivo com:
 
@@ -26,8 +26,8 @@ Função recursiva: is_palindrome_recursive
 
 Lista de palavras para teste
 
-⚙️ Funcionamento
-🔹 1. Verificação Iterativa (is_palindrome)
+# ⚙️ Funcionamento
+## 🔹 1. Verificação Iterativa (is_palindrome)
 
 Essa função:
 
@@ -43,7 +43,7 @@ is_palindrome("arara")  # True
 is_palindrome("carro")  # False
 
 
-📌 Utiliza:
+# 📌 Utiliza:
 
 Loop for
 
@@ -51,7 +51,7 @@ Loop for
 
 Biblioteca math para cálculo do teto (ceil)
 
-🔹 2. Verificação Recursiva (is_palindrome_recursive)
+## 🔹 2. Verificação Recursiva (is_palindrome_recursive)
 
 Essa função:
 
@@ -65,7 +65,7 @@ is_palindrome_recursive("level")  # True
 is_palindrome_recursive("cama")   # False
 
 
-📌 Conceitos aplicados:
+# 📌 Conceitos aplicados:
 
 Recursão
 
